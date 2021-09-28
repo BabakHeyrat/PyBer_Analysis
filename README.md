@@ -7,13 +7,13 @@
 ## Analysis
 
 ### PyBer Summary by City Type
-![PyBer_Summary](PyBer_Analysis/Resources/PyBer_Summary.png)
+![PyBer_Summary](/Resources/PyBer_Summary.png)
 		
 * After having merged both the city and ridership data into a single dataframe, I condensed the data to display the city type: rural, suburban, and urban cities are our main regions of interest. We can see that outside large urban areas, the total number of PyBer drivers, rides, and fares steadily decreases. Inversely, the more urbanized the city, with an increasing number of drivers and rides, the average fare per ride and average far per driver decreases. This illustrates the more urbanized a city, the larger the population, the larger the total number of drivers and rides; allowing the average fare per ride and average fare per driver to decrease. 
 
 
 ### Weekly PyBer Activty
-![PyBer_Fare_Summary](PyBer_Analysis/Analysis/PyBer_fare_summary.png)
+![PyBer_Fare_Summary](/Analysis/PyBer_fare_summary.png)
 * We then wanted to look at weekly changes in total fares($USD) per city type for the first four months of 2019. Here we can see there was a noticeable increase in total amount of fares towards the last week of February across all three types of cities. All three city types also exhibit a significant drop in total fares during the middle of April 2019. 
 		
 
